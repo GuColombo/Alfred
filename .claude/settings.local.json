@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(pip3:*)",
+      "Bash(mkdir:*)",
+      "Bash(python3 -m pip install:*)",
+      "Bash(python:*)",
+      "Bash(alfred:*)"
+    ],
+    "deny": []
+  }
+}
